@@ -23,7 +23,7 @@ v1.6.5 - YYYY-MM-DD
 
 - Fixed `pdfioContentTextXxx` output with Unicode characters past U+FFFF
   (Issue #171)
-- Fixed issue with extended Unicode filenames on Windows (Issue #172)
+- Fixed `pdfioPageCopy` with a damaged input PDF file (Issue #174)
 - Fixed `pdfioContentTextXxx` output with invalid UTF-8.
 
 
